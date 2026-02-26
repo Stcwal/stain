@@ -1,2 +1,2 @@
 # stain
-My home server, for storage and we-hosting among other things
+My home server, for storage and web-hosting among other things
